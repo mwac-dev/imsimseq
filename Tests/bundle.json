@@ -1,0 +1,19 @@
+{
+  "config_version": "1.0.0",
+  "catalogs": {
+    "materials": [
+      {
+        "id": "mat.steel.brushed",
+        "name": "Steel (Brushed)",
+        "tags": ["metal","hard-surface"],
+        "properties": { "roughness": 0.35, "metallic": 1.0 }
+      },
+      {
+        "id": "mat.slime.acid",
+        "name": "Acid Slime",
+        "tags": ["liquid","hazard"],
+        "properties": { "corrosive": 0.9 }
+      }
+    ]
+  }
+}
